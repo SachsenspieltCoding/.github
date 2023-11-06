@@ -6,7 +6,7 @@
   <h1>Hi 👋 I'm Finn!</h1>
 </div>
 
-<p align="center">Hi, I'm <b>Finn</b>, also known as <b>SachsenspieltCoding</b> on GitHub. <br /> I'm a student from Germany 🇩🇪 and a Full-Stack developer as a hobbyist. <br /> You can find me on <a href="https://discord.com/">Discord</a> as @sachsenspielt and on <a href="https://dresden.network/@sachsenspielt">Mastodon</a>.</p>
+<p align="center">Hi, I'm <b>Finn</b>, also known as <b>SachsenspieltCoding</b> on GitHub. <br /> I'm a student from Saxony, Germany 🇩🇪 and a Full-Stack developer as a hobbyist. <br /> You can find me on <a href="https://discord.com/">Discord</a> as @sachsenspielt and on <a href="https://dresden.network/@sachsenspielt">Mastodon</a>.</p>
 
 ---
 
