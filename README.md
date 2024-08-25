@@ -25,7 +25,4 @@ Vertretungsapp is an alternative to the indiware app VpMobil. Currently I am wor
 ### ✨ NPLAY
 NPLAY is one of the biggest simulation youtubers in Germany. Together with some other devs I'm working on a custom moderation bot for his [discord server](https://discord.gg/nplay). You can find the bot [here](https://github.com/nplay-team/moderation-bot).
 
-### ✨ Cubyx Network
-I serve as the Lead Developer and administrator for Cubyx Network, where I'm actively working on developing the website. You can follow our progress on [GitHub](https://github.com/Cubyx-Network/website).
-
 Feel free to explore these projects, contribute, or reach out to me with any questions or collaboration opportunities. I'm always excited to connect with fellow developers and open-source enthusiasts.
